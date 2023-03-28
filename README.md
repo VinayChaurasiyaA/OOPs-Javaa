@@ -42,7 +42,7 @@ We can even put return data type of parent as "classname" of that and in that ca
 ### this keyword: 
 They must be written in first line of the constructor.
 Refers to current invoking object.
-**this()** -> calling for current class constructor from inside fifernt constructor of same class.
+**this()** -> calling for current class constructor from inside differnt constructor of same class.
 It is use for refering the object in more lame language.
 this consider it as a object and now consider -> as the function call and it'll make the object there.
 current object's variable , whenever parent has the same name as the provided in argument.
